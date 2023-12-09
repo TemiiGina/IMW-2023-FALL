@@ -108,7 +108,7 @@ body {
     margin-top: -750px;
   }
 #img1 { display: inline-block; margin-left: 380px; margin-top: -40px; height:200px; width:200px; }
-#img2 { display: inline-block; margin-left: 350px; margin-top: -20px; height:200px; width:270px; padding-bottom: 0;}
+#img2 { display: inline-block; margin-left: 350px; margin-top: -20px; height:200px; width:270px; }
 #img3 { display: inline-block; margin-left: 360px; margin-top: -10px; height:200px; width:260px; }
 #img4 { display: inline-block; margin-left: 380px; margin-top: -40px; height:200px; width:200px; }
 #img5 { display: inline-block; margin-left: 370px; margin-top: -40px; height:250px; width:280px; }
