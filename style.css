@@ -473,3 +473,43 @@ p {
   position: absolute;
   margin-left: 500px;
 }
+
+.res {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  padding: 0px;
+  color: white;
+}
+
+h4 {
+ 
+  margin-top: -100px;
+  z-index: 100;
+  background: url('patty.png');
+  height: 90px;
+  width: 600px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive; 
+  font-size: 55px;
+  margin-left: 400px;
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.4); 
+}
+
+.res {
+  margin-top: -90px;
+  background: url('res.png');
+  z-index: -7;
+  width: 400px;
+  margin-left: 670px;
+  box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.4); 
+}
+
+.resy {
+  z-index: -6;
+   font-family: 'Indie Flower', cursive; 
+  font-size: 35px;
+  color: black;
+  height: 120px;
+ 
+}
